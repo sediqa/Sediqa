@@ -1,2 +1,2 @@
-# Sediqam
+# Sediqa
 Welcome to my world
